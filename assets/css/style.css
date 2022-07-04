@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    margin-top: 20px;
+    gap: 100px;
+    align-items: center;
+    flex-direction: column;
+    height: 1200px;
+}
+
+.gato-blanco {
+    width: 300px;
+    height: 300px;
+}
+
+.ejercicio2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.ejercicio2 button {
+    margin-top: 20px;
+}
+
+.ejercicio2 p {
+    color: black;
+}
+
+.cards {
+    display: flex;
+    gap: 20px;
+}
+
+.ejercicio3 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.selects {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    gap: 50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.textpassword {
+    color: black;
+}
